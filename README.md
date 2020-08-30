@@ -10,4 +10,5 @@ Usually I am:
 - Drinking water
 
 I'm available for coffee in Seoul if you wanna talk Bitcoin or Linux (email calvin@kcalvinalvin.info).
+I have sick Seoul themed Bitcoin stickers available to give out. Email me for those.
 I am not available for hire.
