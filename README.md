@@ -1,16 +1,13 @@
-### Hi there 👋
+### I am a Water deer
 
-<!--
-**kcalvinalvin/kcalvinalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a water deer that likes Linux and Bitcoin. I know Bitcoin better though.
 
-Here are some ideas to get you started:
+Usually I am:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Contributing to Bitcoin
+- Tweaking my NixOS servers
+- Looking for cool FOSS projects
+- Drinking water
+
+I'm available for coffee in Seoul if you wanna talk Bitcoin or Linux (email calvin@kcalvinalvin.info).
+I am not available for hire.
