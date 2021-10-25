@@ -1,16 +1,16 @@
-### I am a Water deer
+### 👋 Hi I'm Calvin 👋
 
-I'm a water deer that likes Linux and Bitcoin. I know Bitcoin better though.
+I am an open source developer that works on scaling Bitcoin.
 
-Usually I am:
+Nowadays I'm usually:
 
-- Contributing to Bitcoin
-- Tweaking my NixOS servers
-- Looking for cool FOSS projects
-- Drinking water
+- Working on utcd (github.com/mit-dci/utcd/tree/utreexo), a Bitcoin full node with Utreexo accumulators
+- Working on utreexo (github.com/mit-dci/utreexo), a dynamic hash-based accumulator for Bitcoin
+- Drinking water as I'm a water deer
 
-I'm available for coffee in Seoul if you wanna talk Bitcoin or Linux (email calvin@kcalvinalvin.info).
+I'm dabbling around in:
 
-I have sick Seoul themed Bitcoin stickers available to give out. Email me for those.
+- Contributing to libutreexo (github.com/mit-dci/libutreexo), an implementation of utreexo in C++
+- Porting the work I've done in utcd to Bitcoin Core
 
-I am not available for hire.
+If you'd like to talk to me or send me pictures of cute water deers, I'm reachable at calvin@kcalvinalvin.info!
