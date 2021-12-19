@@ -4,7 +4,7 @@ I am an open source developer that works on scaling Bitcoin.
 
 Nowadays I'm usually:
 
-- Working on utcd (github.com/mit-dci/utcd/tree/utreexo), a Bitcoin full node with Utreexo accumulators
+- Working on utreexod (github.com/utreexo/utreexod), a Bitcoin full node with Utreexo accumulators
 - Working on utreexo (github.com/mit-dci/utreexo), a dynamic hash-based accumulator for Bitcoin
 - Drinking water as I'm a water deer
 
