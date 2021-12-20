@@ -11,6 +11,6 @@ Nowadays I'm usually:
 I'm dabbling around in:
 
 - Contributing to libutreexo (github.com/mit-dci/libutreexo), an implementation of utreexo in C++
-- Porting the work I've done in utcd to Bitcoin Core
+- Porting the work I've done in utreexod to Bitcoin Core
 
 If you'd like to talk to me or send me pictures of cute water deers, I'm reachable at calvin@kcalvinalvin.info!
