@@ -9,4 +9,4 @@ Nowadays I'm usually:
 - Working on [btcd](github.com/btcsuite/btcd), a bitcoin implementation in Go
 - Being a water deer
   
-If you'd like to talk/grab a coffee with me or send me pictures of cute water deers, I'm reachable at calvin@kcalvinalvin.info!
+If you'd like to talk/grab a coffee with me or send me pictures of cute water deers, I'm reachable at calvin@calvinkim.info!
